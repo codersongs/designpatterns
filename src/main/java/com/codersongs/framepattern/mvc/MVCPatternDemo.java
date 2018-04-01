@@ -1,6 +1,7 @@
 package com.codersongs.framepattern.mvc;
 
 /**
+ *
  * MVC模式，注意MVC是一种框架模式，不是设计模式
  *
  * <p>
