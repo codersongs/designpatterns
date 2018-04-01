@@ -2,6 +2,7 @@ package com.codersongs.framepattern.mvc;
 
 /**
  * MVC模式，注意MVC是一种框架模式，不是设计模式
+ *
  * <p>
  * MVC模式，即Model, View, Controller是java web中常用的模式，控制器将对象操作和视图渲染
  * 解耦，便于独立扩展变化
